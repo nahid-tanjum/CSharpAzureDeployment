@@ -1,0 +1,7 @@
+C:\Users\Nahid Tanjum\source\code\MyCSharpAzureApp\MyCSharpAzureApp\obj\Release\net6.0\PubTmp\Out\MyCSharpAzureApp.exe
+C:\Users\Nahid Tanjum\source\code\MyCSharpAzureApp\MyCSharpAzureApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Nahid Tanjum\source\code\MyCSharpAzureApp\MyCSharpAzureApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Nahid Tanjum\source\code\MyCSharpAzureApp\MyCSharpAzureApp\obj\Release\net6.0\PubTmp\Out\MyCSharpAzureApp.dll
+C:\Users\Nahid Tanjum\source\code\MyCSharpAzureApp\MyCSharpAzureApp\obj\Release\net6.0\PubTmp\Out\MyCSharpAzureApp.deps.json
+C:\Users\Nahid Tanjum\source\code\MyCSharpAzureApp\MyCSharpAzureApp\obj\Release\net6.0\PubTmp\Out\MyCSharpAzureApp.runtimeconfig.json
+C:\Users\Nahid Tanjum\source\code\MyCSharpAzureApp\MyCSharpAzureApp\obj\Release\net6.0\PubTmp\Out\MyCSharpAzureApp.pdb
